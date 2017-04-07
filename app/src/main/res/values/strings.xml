@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TienTe</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>VND</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
